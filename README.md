@@ -25,4 +25,4 @@ Data
 The dataset used in this project should be in txt/csv format with three columns representing the features and one column representing the target variable. The second column of the dataset is dropped during preprocessing.
 
 Results
-The output of the algorithm is the optimal value of k and the accuracy of the model. The accuracy is as the error of distance assuming the the
+The output of the algorithm is the optimal value of k and the accuracy of the model. The accuracy is calculated using the percentage of correct predictions over the total number of predictions with an accuracy of 98.25174825174825
